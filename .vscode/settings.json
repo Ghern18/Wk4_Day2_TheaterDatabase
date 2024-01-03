@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "name": "padawans136_db",
+            "connectString": "postgres://hwwyszvq:MceWWTLaanz2rjuP1fzbOAsBR2ki8R2p@bubble.db.elephantsql.com/hwwyszvq"
+        }
+    ]
+}
